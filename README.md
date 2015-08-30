@@ -1,11 +1,10 @@
-# 81 Projects to Improve your Skills as a Programmer
+# Practice Small Projects
 
-Taken from [Udaipur Engineers](http://www.udaipurengineers.com/81-projects-to-improve-your-skills-as-a-programmer/)
+Some ideas are taken from [Udaipur Engineers](http://www.udaipurengineers.com/81-projects-to-improve-your-skills-as-a-programmer/)
 
 A list of practical projects that anyone can solve in any programming language.
-These projects are divided in multiple categories, and each category has it’s own folder.
 
-## Math
+# Done
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
@@ -19,13 +18,17 @@ These projects are divided in multiple categories, and each category has it’s 
 
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
-**Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+**Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
 **Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
 **Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
+# TODO
+
 **Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
+
+**Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
@@ -49,7 +52,6 @@ These projects are divided in multiple categories, and each category has it’s 
 
 **Collatz Conjecture** - Start with a number n > 1. Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
 
-**Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
 **Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given n points in metric space, find a pair of points with the smallest distance between them.
 
